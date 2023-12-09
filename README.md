@@ -1,6 +1,7 @@
 # hex-generator
 
-Generate and copy random hexadecimal values
+Generate and copy random hexadecimal values.
+https://notprjwl.github.io/hex-generator/
 
 ## Key Features
 
